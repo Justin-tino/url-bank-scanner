@@ -1,5 +1,5 @@
 # It is just an static so if the banks updated their domain name, you too!
-# Where to update? line 22
+# Where to update? line 22 (script.js)
 /* const whitelist = {
         'bdo.com.ph': 'https://www.bdo.com.ph',
         'landbank.com': 'https://www.landbank.com',
