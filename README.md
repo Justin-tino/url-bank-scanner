@@ -1,4 +1,4 @@
-# It is just an static so if the banks updated their domain name, you too!
+# It is just an static
 # Where to update? line 22 (script.js)
 /* const whitelist = {
         'bdo.com.ph': 'https://www.bdo.com.ph',
@@ -49,47 +49,47 @@
     
 
 #Bank listed: All Banks and E-Wallets 🇵🇭
-BDO Unibank (BDO)
-Land Bank of the Philippines (LandBank)
-Bank of the Philippine Islands (BPI)
-Metropolitan Bank & Trust Company (Metrobank)
-China Banking Corporation (China Bank)
-Rizal Commercial Banking Corporation (RCBC)
-Security Bank Corporation
-Philippine National Bank (PNB)
-Development Bank of the Philippines (DBP)
-Union Bank of the Philippines (UnionBank)
-East West Banking Corporation (EastWest Bank)
-Asia United Bank (AUB)
-Philippine Bank of Communications (PBCom)
-Philippine Savings Bank (PSBank)
-Robinsons Bank
-Sterling Bank of Asia
-CTBC Bank Philippines
-Equicom Savings Bank
-First Consolidated Bank
-AllBank (A Thrift Bank)
-Binangonan Rural Bank
-Rural Bank of Guinobatan
-Maybank Philippines
-Citibank Philippines
-HSBC Philippines
-ANZ Philippines
-Bank of Commerce
-Philippine Veterans Bank
-Maya Bank
-Overseas Filipino Bank (OFBank)
-Tonik Digital Bank
-GoTyme Bank
-UNOBank
-UnionDigital Bank
-GCash
-Maya (formerly PayMaya)
-GrabPay
-ShopeePay
-Coins.ph
-StarPay
-TayoCash
-USSC Money Services
-Zybi Tech
-Bayad Cente
+#BDO Unibank (BDO)
+#Land Bank of the Philippines (LandBank)
+#Bank of the Philippine Islands (BPI)
+#Metropolitan Bank & Trust Company (Metrobank)
+#China Banking Corporation (China Bank)
+#Rizal Commercial Banking Corporation (RCBC)
+#Security Bank Corporation
+#Philippine National Bank (PNB)
+#Development Bank of the Philippines (DBP)
+#Union Bank of the Philippines (UnionBank)
+#East West Banking Corporation (EastWest Bank)
+#Asia United Bank (AUB)
+#Philippine Bank of Communications (PBCom)
+#Philippine Savings Bank (PSBank)
+#Robinsons Bank
+#Sterling Bank of Asia
+#CTBC Bank Philippines
+#Equicom Savings Bank
+#First Consolidated Bank
+#AllBank (A Thrift Bank)
+#Binangonan Rural Bank
+#Rural Bank of Guinobatan
+#Maybank Philippines
+#Citibank Philippines
+#HSBC Philippines
+#ANZ Philippines
+#Bank of Commerce
+#Philippine Veterans Bank
+#Maya Bank
+#Overseas Filipino Bank (OFBank)
+#Tonik Digital Bank
+#GoTyme Bank
+#UNOBank
+#UnionDigital Bank
+#GCash
+#Maya (formerly PayMaya)
+#GrabPay
+#ShopeePay
+#Coins.ph
+#StarPay
+#TayoCash
+#USSC Money Services
+#Zybi Tech
+#Bayad Cente
